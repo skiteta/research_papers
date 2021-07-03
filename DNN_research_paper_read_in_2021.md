@@ -31,11 +31,12 @@
 
 ## Research paper read
 
+### Computer vision
+
 * ImageNet: ImageNet Classification With Deep Convolutional Neural Networks
   * https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 * Learning the Best Pooling Strategy for Visual Semantic Embedding
   * https://arxiv.org/pdf/2011.04305.pdf
-  * 
 * HR-NAS: Searching Efficient High-resolution Neural Architectures With Lightweight Transformers
 * VLN BERT: A Recurrent Vision-and-Language BERT for Navigation
 * RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening
