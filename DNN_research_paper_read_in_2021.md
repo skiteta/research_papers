@@ -33,6 +33,11 @@
 
 ### Computer vision
 
+* Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation
+  * https://arxiv.org/pdf/1806.01260.pdf
+* CenterTrack: Tracking Objects as Points
+  * https://arxiv.org/pdf/2004.01177.pdf
+
 * ImageNet: ImageNet Classification With Deep Convolutional Neural Networks
   * https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 * Learning the Best Pooling Strategy for Visual Semantic Embedding
