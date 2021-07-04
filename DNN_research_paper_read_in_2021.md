@@ -33,6 +33,9 @@
 
 ### Computer vision
 
+* SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video
+  * https://arxiv.org/pdf/1704.07813.pdf
+
 * Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation
   * https://arxiv.org/pdf/1806.01260.pdf
 * CenterNet: Objects as Points
