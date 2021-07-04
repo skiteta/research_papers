@@ -35,6 +35,8 @@
 
 * Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation
   * https://arxiv.org/pdf/1806.01260.pdf
+* CenterNet: Objects as Points
+  * https://arxiv.org/pdf/1904.07850.pdf
 * CenterTrack: Tracking Objects as Points
   * https://arxiv.org/pdf/2004.01177.pdf
 
