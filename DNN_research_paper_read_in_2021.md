@@ -34,146 +34,218 @@
 ### Computer vision
 
 * SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video ✔︎
-  * https://arxiv.org/pdf/1704.07813.pdf
+  * https://arxiv.org/abs/1704.07813
 * Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation ✔︎
-  * https://arxiv.org/pdf/1806.01260.pdf
+  * https://arxiv.org/abs/1806.01260
 * CenterNet: Objects as Points ✔︎
-  * https://arxiv.org/pdf/1904.07850.pdf
+  * https://arxiv.org/abs/1904.07850
 * CenterTrack: Tracking Objects as Points ✔︎
-  * https://arxiv.org/pdf/2004.01177.pdf
+  * https://arxiv.org/abs/2004.01177
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications 
-  * https://arxiv.org/pdf/1704.04861.pdf
+  * https://arxiv.org/abs/1704.04861
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks
-  * https://arxiv.org/pdf/1801.04381v3.pdf
+  * https://arxiv.org/abs/1801.04381
 * MobileNetV3: Searching for MobileNetV3
-  * https://arxiv.org/pdf/1905.02244.pdf
+  * https://arxiv.org/abs/1905.02244
 * ResNet: Deep Residual Learning for Image Recognition
-  * https://arxiv.org/pdf/1512.03385.pdf
+  * https://arxiv.org/abs/1512.03385
 * Hourglass: Stacked Hourglass Networks for Human Pose Estimation
-  * https://arxiv.org/pdf/1603.06937.pdf
+  * https://arxiv.org/abs/1603.06937
 * DLA: Deep Layer Aggregation
-  * https://arxiv.org/pdf/1707.06484.pdf
+  * https://arxiv.org/abs/1707.06484
 * U-Net: Convolutional Networks for Biomedical Image Segmentation
-  * https://arxiv.org/pdf/1505.04597.pdf
+  * https://arxiv.org/abs/1505.04597
 * ImageNet: ImageNet Classification With Deep Convolutional Neural Networks
-  * https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+  * https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
 * YOLOv1: Unified, Real-Time Object Detection
-  * https://arxiv.org/pdf/1506.02640.pdf
+  * https://arxiv.org/abs/1506.02640
 * YOLOv3: An Incremental Improvement
-  * https://arxiv.org/pdf/1804.02767.pdf
+  * https://arxiv.org/abs/1804.02767
 * YOLOv4:  Optimal Speed and Accuracy of Object Detection
-  * https://arxiv.org/pdf/2004.10934.pdf
+  * https://arxiv.org/abs/2004.10934
 * Learning the Best Pooling Strategy for Visual Semantic Embedding
-  * https://arxiv.org/pdf/2011.04305.pdf
+  * https://arxiv.org/abs/2011.04305
 * HR-NAS: Searching Efficient High-resolution Neural Architectures With Lightweight Transformers
-  * https://arxiv.org/pdf/2106.06560.pdf
+  * https://arxiv.org/abs/2106.06560
 * VLN BERT: A Recurrent Vision-and-Language BERT for Navigation
+  * https://arxiv.org/abs/2011.13922
 * RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening
+  * https://arxiv.org/abs/2103.15597
 * Representative Batch Normalization With Feature Calibration
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Representative_Batch_Normalization_With_Feature_Calibration_CVPR_2021_paper.html
 * Jigsaw Clustering for Unsupervised Visual Representation Learning
+  * https://arxiv.org/abs/2104.00323
 * HITNET: Hierarchical Iterative Tile Refinement Network for Real-time Streo Matching
+  * https://arxiv.org/abs/2007.12140
 * Your "Flamingo" is My "Bird": Fine-Grained, or Not
+  * https://arxiv.org/abs/2011.09040
 * Convolutional Hough Matching Networks
+  * https://arxiv.org/abs/2103.16831
 * Meta Pseudo Labels
+  * https://arxiv.org/abs/2003.10580
 * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking
+  * https://arxiv.org/abs/2103.11681
 * AQD: Towards Accurate Quantized Object Detection
+  * https://arxiv.org/abs/2007.06919
 * PatchmatchNet: Learned Multi-View Patchmatch Stereo
+  * https://arxiv.org/abs/2012.01411
 * Layer-Wise Searching for 1-Bit Detectors
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html
 * Intentonormy: A Dataset and Study Towards Human Intent Understanding
+  * https://arxiv.org/abs/2011.05558
 * LQF: Linear Quadratic Fine-Tuning
+  * https://arxiv.org/abs/2012.11140
 * Improving Panoptic Segmentation at All Scales
+  * https://arxiv.org/abs/2012.07717
 * Fully Convolutional Networks for Panoptic Segmentation
+  * https://arxiv.org/abs/2012.00720
 * Learning To Filter: Siamese Relation Network for Robust Tracking
+  * https://arxiv.org/abs/2104.00829
 * Inception Convolution With Efficient Dilation Search
+  * https://arxiv.org/abs/2012.13587
 * PointNetLK Revisited
+  * https://arxiv.org/abs/2008.09527
 * Exploring Simple Siamese Representation Learning
+  * https://arxiv.org/abs/2011.10566
 * Dynamic Siliimmable Network
+  * https://arxiv.org/abs/2103.13258
 * Permute, Quantize, and Fine-Tune: Efficient Compression of Neural Networks
+  * https://arxiv.org/abs/2010.15703
 * VarifocalNet: An IoU-Aware Dense Object Detector
+  * https://arxiv.org/abs/2008.13367
 * Capsule Network Is Not More Robust Than Convolutional Network
+  * https://arxiv.org/abs/2103.15459
 * Robust Consistent Video Depth Estimation
+  * https://arxiv.org/abs/2012.05901
 * Knowledge Evolution in Neural Networks
+  * https://arxiv.org/abs/2103.05152
 * UP-DETR: Unsupervised Pre-Training for Object Detection With Transforms
+  * https://arxiv.org/abs/2011.09094
 * Blocks-World Cameras
+  * https://arxiv.org/abs/2102.12911
 * Simple Copy-Paste Is a Strong Data Augmentation Method for Instance Segmentation
+  * https://arxiv.org/abs/2012.07177
 * Towards Open World Object Detection
+  * https://arxiv.org/abs/2103.02603
 * Line Segment Detection Using Transformer Without Edges
+  * https://arxiv.org/abs/2101.01909
 * Convolutional Dynamic Alignment Networks for Interpretable Classifications
+  * https://arxiv.org/abs/2104.00032
 * FrameExit: Conditional Early Exiting for Efficient Video Recognition
+  * https://arxiv.org/abs/2104.13400
 * NPAS: A Compiler-Aware Framework of Unified Network Pruning and Architecture SEarch for Beyond Real-Time Mobile Acceleration
+  * https://arxiv.org/abs/2012.00596
 * Scaling Local Self-Attention for Parameter Efficient Visual Backbones
+  * https://arxiv.org/abs/2103.12731
 * Orthogonal Over-Parameterized Training
+  * https://arxiv.org/abs/2004.04690
 * Points As Queries: Weakly Semi-Supervised Object Detection by Points
+  * https://arxiv.org/abs/2104.07434
 * Probabilistic Model Distillation for Semantic Correspondence
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Li_Probabilistic_Model_Distillation_for_Semantic_Correspondence_CVPR_2021_paper.html
 * AdaBins: Depth Estimation Using Adaptive Bins
+  * https://arxiv.org/abs/2011.14141
 * Bottleneck Transformers for Visual Recognition
+  * https://arxiv.org/abs/2101.11605
 * CondenseNet V2: Sparse Feature Reactivation for Deep Networks
+  * https://arxiv.org/abs/2104.04382
 * Deep Two-View Structure-From-Motion Revisited
+  * https://arxiv.org/abs/2104.00556
 * M3DSSD: Monocular 3D Single Stage Object Detector
+  * https://arxiv.org/abs/2103.13164
 * Learning Student Networks in the Wild
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.html
 * SuperMix: Supervising the Mixing Data Augmentation
+  * https://arxiv.org/abs/2003.05034
 * MongeNet: Efficient Sampler for Geometric Deep Learning
+  * https://arxiv.org/abs/2104.14554
 * Pre-Trained Image Processing Transformer
+  * https://arxiv.org/abs/2012.00364
 * Source-Free Domain Adaptation for Semantic Segmentation
+  * https://arxiv.org/abs/2103.16372
 * Depth From Camera Motion and Object Detection
+  * https://arxiv.org/abs/2103.01468
 * Sparse R-CNN: Endo-to-End Object Detection With Learnable Proposals
+  * https://arxiv.org/abs/2011.12450
 * MobileDets: Searching for Object Detection Architectures for Mobile Accelerators
+  * https://arxiv.org/abs/2004.14525
 * Coordinate Attention for Efficient Mobile Network Design
+  * https://arxiv.org/abs/2103.02907
 * NetAdaptV2:Efficient Neural Architecture Search With Fast Super-Network Training and Architecture Optimization
+  * https://arxiv.org/abs/2104.00031
 * On Robustness and Transferability of Convolutional Neural Networks
+  * https://arxiv.org/abs/2007.08558
 * HOTR: End-toEnd Human-Object Interaction Detection With Transformers
+  * https://arxiv.org/abs/2104.13682
 * Rethinking BiSeNet for Real-Time Semantic Segmentation
+  * https://arxiv.org/abs/2104.13188
 * AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching
+  * https://arxiv.org/abs/2004.04627
 * Diverse Branch Block: building a Convolution as an Inception-Like Unit
+  * https://arxiv.org/abs/2103.13425
 * UP-DETR: Unsupervised Pre-Training for Object Detection With Transformers
+  * https://arxiv.org/abs/2011.09094
 * End-to-End Object Detection With Fully Convolutional Network
+  * https://arxiv.org/abs/2012.03544
 * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching
+  * https://arxiv.org/abs/2104.04314
 * Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection
-* Rethinking Channel Demensions for Efficient MOdel Design
+  * https://arxiv.org/abs/2011.12885
+* Rethinking Channel Demensions for Efficient Model Design
+  * https://arxiv.org/abs/2007.00992
 * Three Ways To Improve Semantic Segmentation With Self-Supervised Depth Estimation
+  * https://arxiv.org/abs/2012.10782
 * Activate or Not: Learning Customoized Activation
+  * https://arxiv.org/abs/2009.04759
 * RepVGG: Making VGG-Style ConvNets Great Again
+  * https://arxiv.org/abs/2101.03697
 * 3D object Detaction With Pointformer
+  * https://arxiv.org/abs/2012.11409
 * Revisiting Knowledge Distillation: An Inheritance and Exploration Framework
+  * https://arxiv.org/abs/2107.00181
 * EDNet: Efficient Disparity Estimation With cost Volume Combination and Attention-Based Spatial Residual
+  * https://arxiv.org/abs/2010.13338
 * Restoring Extremely Dark Images in Real Time
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.html
 * RaScaNet: Learning Tiny Models by Raster-Scannning Images
-* Rethinking Semantic Segmentation From a Sequence -to-Sequence Perspective With Transformers
+  * https://openaccess.thecvf.com/content/CVPR2021/html/Yoo_RaScaNet_Learning_Tiny_Models_by_Raster-Scanning_Images_CVPR_2021_paper.html
+* Rethinking Semantic Segmentation From a Sequence-to-Sequence Perspective With Transformers
+  * https://arxiv.org/abs/2012.15840
 
 ### Natural language processing
 
 * Transformer: Attention Is All You Need
-  * https://arxiv.org/pdf/1706.03762.pdf
+  * https://arxiv.org/abs/1706.03762
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-  * https://arxiv.org/pdf/1810.04805.pdf
+  * https://arxiv.org/abs/1810.04805
 
 ### Generative model
 
 * GAN: Generative Adversarial Nets
-  * https://arxiv.org/pdf/1406.2661.pdf
+  * https://arxiv.org/abs/1406.2661
 * InfoGAN: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
-  * https://arxiv.org/pdf/1606.03657.pdf
+  * https://arxiv.org/abs/1606.03657
 * ConditionalGAN: Conditional Generative Adversarial Nets
-  * https://arxiv.org/pdf/1411.1784.pdf
-* CycleGAN: 
-  * 
-* WGAN
-  * 
-* LSGAN
-  * 
-* DCGAN
-  * 
-* BEGAN
-  * 
-* SAGAN
-  * 
-* StyleGAN
-  * 
-* ProgressiveGAN
-  * 
-* BiGAN
-  * 
-* D2GAN
-  * 
-* MGAN
-  * 
+  * https://arxiv.org/abs/1411.1784
+* CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+  * https://arxiv.org/abs/1703.10593
+* WGAN: Wasserstein GAN
+  * https://arxiv.org/abs/1701.07875
+* LSGAN: Least Squares Generative Adversarial Networks
+  * https://arxiv.org/abs/1611.04076
+* DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks 
+  * https://arxiv.org/abs/1511.06434
+* BEGAN: Boundary Equilibrium Generative Adversarial Networks
+  * https://arxiv.org/abs/1703.10717
+* SAGAN: Self-Attention Generative Adversarial Networks
+  * https://arxiv.org/abs/1805.08318
+* StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks
+  * https://arxiv.org/abs/1812.04948
+* ProgressiveGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation
+  * https://arxiv.org/abs/1710.10196
+* BiGAN: Adversarial Feature Learning
+  * https://arxiv.org/abs/1605.09782?context=cs
+* D2GAN: Dual Discriminator Generative Adversarial Nets
+  * https://arxiv.org/abs/1709.03831
+* MGAN: Multi-Generator Generative Adversarial Nets
+  * https://arxiv.org/abs/1708.02556
