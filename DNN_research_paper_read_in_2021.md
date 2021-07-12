@@ -47,7 +47,7 @@
   * https://arxiv.org/abs/1801.04381
 * MobileNetV3: Searching for MobileNetV3
   * https://arxiv.org/abs/1905.02244
-* ResNet: Deep Residual Learning for Image Recognition
+* ResNet: Deep Residual Learning for Image Recognition ✔︎
   * https://arxiv.org/abs/1512.03385
 * Hourglass: Stacked Hourglass Networks for Human Pose Estimation
   * https://arxiv.org/abs/1603.06937
