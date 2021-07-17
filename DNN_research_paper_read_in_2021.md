@@ -33,6 +33,15 @@
 
 ### Computer vision
 
+* Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+  * https://arxiv.org/abs/1611.08050
+* OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+  * https://arxiv.org/abs/1812.08008
+* Simple Baselines for Human Pose Estimation and Tracking
+  * https://arxiv.org/abs/1804.06208
+* Deep High-Resolution Representation Learning for Human Pose Estimation
+  * https://arxiv.org/abs/1902.09212
+
 * SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video ✔︎
   * https://arxiv.org/abs/1704.07813
 * Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation ✔︎
