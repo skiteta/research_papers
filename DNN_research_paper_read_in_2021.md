@@ -39,9 +39,21 @@
   * https://arxiv.org/abs/1812.08008
 * Simple Baselines for Human Pose Estimation and Tracking
   * https://arxiv.org/abs/1804.06208
+* Mask R-CNN
+  * https://arxiv.org/abs/1703.06870
+* Fast R-CNN
+  * https://arxiv.org/abs/1504.08083
+* Faster R-CNN
+  * https://arxiv.org/abs/1506.01497
+* VGG Net: Very Deep Convolutional Networks for Large-Scale Image Recognition
+  * https://arxiv.org/abs/1409.1556
+* Feature Pyramid Networks for Object Detection
+  * https://arxiv.org/abs/1612.03144
+* Distillation
+* Quantize
+* Pruning
 * Deep High-Resolution Representation Learning for Human Pose Estimation ✔︎
   * https://arxiv.org/abs/1902.09212
-
 * SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video ✔︎
   * https://arxiv.org/abs/1704.07813
 * Monodepth2: Digging Into Self-Supervised Monocular Depth Estimation ✔︎
