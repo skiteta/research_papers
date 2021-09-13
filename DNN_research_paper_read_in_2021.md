@@ -45,7 +45,7 @@
   * https://arxiv.org/abs/1504.08083
 * Faster R-CNN
   * https://arxiv.org/abs/1506.01497
-* VGG Net: Very Deep Convolutional Networks for Large-Scale Image Recognition
+* VGG Net: Very Deep Convolutional Networks for Large-Scale Image Recognition ✔︎
   * https://arxiv.org/abs/1409.1556
 * Feature Pyramid Networks for Object Detection
   * https://arxiv.org/abs/1612.03144
