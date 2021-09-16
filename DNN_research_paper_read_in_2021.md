@@ -33,6 +33,29 @@
 
 ### Computer vision
 
+* 
+
+* Scalling Laws for Autoregressive Generative Modeling
+  * https://arxiv.org/abs/2010.14701
+
+* Objects365: A Large-scale, High-quality Dataset for Object Detection
+  * https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html
+
+* EfficientDet: Scalable and Efficient Object Detection
+  * https://openaccess.thecvf.com/content_CVPR_2020/html/Tan_EfficientDet_Scalable_and_Efficient_Object_Detection_CVPR_2020_paper.html
+
+* EfficientNet: Rethinking Model Scalling for Convolutional Neural Networks
+  * http://proceedings.mlr.press/v97/tan19a.html
+
+* Self-training with Noisy Student Improves ImageNet Classification
+  * https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html
+
+* Unpaired Image Super-Resolution Using Pseudo-Supervision
+  * https://openaccess.thecvf.com/content_CVPR_2020/html/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.html
+
+* Generative Pretraining from Pixels
+  * http://proceedings.mlr.press/v119/chen20s.html
+
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ✔︎
   * https://arxiv.org/abs/1611.08050
 * OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
@@ -235,12 +258,36 @@
 
 ### Natural language processing
 
+* Language Models are Few-Shot Learners
+  * https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html
+* ALBERT: A Lite BERT for Self-supervised Learning of Languge Representaions
+  * https://openreview.net/forum?id=H1eA7AEtvS
+* On Identifiability in Transformers
+  * https://openreview.net/forum?id=BJg1f6EFDB
+* Scalling Laws for Neural Language Models
+  * https://arxiv.org/abs/2001.08361
+
 * Transformer: Attention Is All You Need
   * https://arxiv.org/abs/1706.03762
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   * https://arxiv.org/abs/1810.04805
 
+### Reinforcement Learning
+
+* xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis
+  * https://www.kdd.org/kdd2020/accepted-papers/view/xgail-explainable-generative-adversarial-imitation-learning-for-explainable
+* Malicious Attacks against Deep Reinforcement Learning Interpretations
+  * https://www.kdd.org/kdd2020/accepted-papers/view/malicious-attacks-against-deep-reinforcement-learning-interpretations
+* Adversarial Policies: Attacking Deep Reinforcement Learning
+  * https://openreview.net/forum?id=HJgEMpVFwB
+
 ### Generative model
+
+* Towards Faster and Stabilized GAN Trainign for High-fidelity Few-shot Image Synthesis
+  * https://openreview.net/forum?id=1Fqg133qRaI
+
+* On Positive-Unlabeled Classification in GAN
+  * https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_On_Positive-Unlabeled_Classification_in_GAN_CVPR_2020_paper.html
 
 * GAN: Generative Adversarial Nets
   * https://arxiv.org/abs/1406.2661
@@ -270,3 +317,26 @@
   * https://arxiv.org/abs/1709.03831
 * MGAN: Multi-Generator Generative Adversarial Nets
   * https://arxiv.org/abs/1708.02556
+
+### Machine Learning Theory
+
+* On Sampled Metrics for Item Recommendation
+  * https://www.kdd.org/kdd2020/accepted-papers/view/on-sampled-metrics-for-item-recommendation
+* Selection via Proxy: Efficient Data Selection for Deep Learning
+  * https://openreview.net/forum?id=HJg2b0VYDr
+* Understanding and Robusifying Differentiable Architecture Search
+  * https://openreview.net/forum?id=H1gDNyrKDS
+* Comparing Rewinding and Fine-tuining in Nerural Network Pruing
+  * https://openreview.net/forum?id=S1gSj0NKvB
+* Pruning Neural Networks without Any Data by iteratively Conseving Synaptic Flow
+  * https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html
+* Deep Semi-Supervised Anomaly Detection
+  * https://openreview.net/forum?id=HkgH0TEYwH
+* Improving Deep Learning for Airbnb Search
+  * https://www.kdd.org/kdd2020/accepted-papers/view/improving-deep-learning-for-airbnb-search
+* Managing Diversity in Airbnb Search
+  * https://www.kdd.org/kdd2020/accepted-papers/view/managing-diversity-in-airbnb-search
+* The Resale Price Prediction of Secondhand Jewelry Items Using a Multi-modal Deep Model with Iterative Co-Attention
+  * https://arxiv.org/abs/1907.00661
+* Predicting Next-Season Designs on High Fashion Runway
+  * https://arxiv.org/abs/1907.07161
