@@ -33,7 +33,14 @@
 
 ### Computer vision
 
-* 
+* Monocular 3D Object Detection for Autonomous Driving
+  * https://arxiv.org/abs/2102.00690
+* 3D Bounding Box Estimation Using Deep Learning and Geometry
+  * https://arxiv.org/abs/1612.00496
+* Multi-Level Fusion based 3D Object Detection from Monocular Images
+  * https://ieeexplore.ieee.org/document/8578347
+* M3D-RPN: Monocular 3D Region Proposal Network for Object Detection
+  * https://arxiv.org/abs/1907.06038
 
 * Scalling Laws for Autoregressive Generative Modeling
   * https://arxiv.org/abs/2010.14701
