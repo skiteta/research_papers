@@ -67,7 +67,7 @@
   * https://arxiv.org/abs/1611.08050
 * OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ✔︎
   * https://arxiv.org/abs/1812.08008
-* Simple Baselines for Human Pose Estimation and Tracking
+* Simple Baselines for Human Pose Estimation and Tracking ✔︎
   * https://arxiv.org/abs/1804.06208
 * Mask R-CNN
   * https://arxiv.org/abs/1703.06870
