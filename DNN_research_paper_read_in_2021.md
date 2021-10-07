@@ -33,7 +33,7 @@
 
 ### Computer vision
 
-* Monocular 3D Object Detection for Autonomous Driving
+* Monocular 3D Object Detection for Autonomous Driving ✔︎
   * https://arxiv.org/abs/2102.00690
 * 3D Bounding Box Estimation Using Deep Learning and Geometry
   * https://arxiv.org/abs/1612.00496
