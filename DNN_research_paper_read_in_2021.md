@@ -33,6 +33,9 @@
 
 ### Computer vision
 
+* DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning
+  * https://elifesciences.org/articles/47994#content
+
 * Monocular 3D Object Detection for Autonomous Driving ✔︎
   * https://arxiv.org/abs/2102.00690
 * 3D Bounding Box Estimation Using Deep Learning and Geometry
