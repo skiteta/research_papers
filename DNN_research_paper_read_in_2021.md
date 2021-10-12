@@ -33,7 +33,7 @@
 
 ### Computer vision
 
-* DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning
+* DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning ✔︎
   * https://elifesciences.org/articles/47994#content
 
 * Monocular 3D Object Detection for Autonomous Driving ✔︎
