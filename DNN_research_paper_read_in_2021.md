@@ -41,7 +41,7 @@
 * 3D Bounding Box Estimation Using Deep Learning and Geometry
   * https://arxiv.org/abs/1612.00496
 * Multi-Level Fusion based 3D Object Detection from Monocular Images
-  * https://ieeexplore.ieee.org/document/8578347
+  * https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.html
 * M3D-RPN: Monocular 3D Region Proposal Network for Object Detection
   * https://arxiv.org/abs/1907.06038
 
