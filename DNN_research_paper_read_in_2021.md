@@ -97,13 +97,13 @@
   * https://arxiv.org/abs/2004.01177
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications 
   * https://arxiv.org/abs/1704.04861
-* MobileNetV2: Inverted Residuals and Linear Bottlenecks
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks  ✔︎
   * https://arxiv.org/abs/1801.04381
 * MobileNetV3: Searching for MobileNetV3
   * https://arxiv.org/abs/1905.02244
 * ResNet: Deep Residual Learning for Image Recognition ✔︎
   * https://arxiv.org/abs/1512.03385
-* Hourglass: Stacked Hourglass Networks for Human Pose Estimation
+* Hourglass: Stacked Hourglass Networks for Human Pose Estimation  ✔︎
   * https://arxiv.org/abs/1603.06937
 * DLA: Deep Layer Aggregation
   * https://arxiv.org/abs/1707.06484
