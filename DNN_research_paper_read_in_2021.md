@@ -35,7 +35,6 @@
 
 * DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning ✔︎
   * https://elifesciences.org/articles/47994#content
-
 * Monocular 3D Object Detection for Autonomous Driving ✔︎
   * https://arxiv.org/abs/2102.00690
 * 3D Bounding Box Estimation Using Deep Learning and Geometry
@@ -44,32 +43,26 @@
   * https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.html
 * M3D-RPN: Monocular 3D Region Proposal Network for Object Detection
   * https://arxiv.org/abs/1907.06038
-
 * Scalling Laws for Autoregressive Generative Modeling
   * https://arxiv.org/abs/2010.14701
-
 * Objects365: A Large-scale, High-quality Dataset for Object Detection
   * https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html
-
 * EfficientDet: Scalable and Efficient Object Detection
   * https://openaccess.thecvf.com/content_CVPR_2020/html/Tan_EfficientDet_Scalable_and_Efficient_Object_Detection_CVPR_2020_paper.html
-
 * EfficientNet: Rethinking Model Scalling for Convolutional Neural Networks
   * http://proceedings.mlr.press/v97/tan19a.html
-
 * Self-training with Noisy Student Improves ImageNet Classification
   * https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html
-
 * Unpaired Image Super-Resolution Using Pseudo-Supervision
   * https://openaccess.thecvf.com/content_CVPR_2020/html/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.html
-
 * Generative Pretraining from Pixels
   * http://proceedings.mlr.press/v119/chen20s.html
-
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ✔︎
   * https://arxiv.org/abs/1611.08050
 * OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ✔︎
   * https://arxiv.org/abs/1812.08008
+* Convolutional Pose Machines  ✔︎
+  * https://arxiv.org/abs/1602.00134
 * Simple Baselines for Human Pose Estimation and Tracking ✔︎
   * https://arxiv.org/abs/1804.06208
 * Mask R-CNN
