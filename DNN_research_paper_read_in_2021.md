@@ -88,7 +88,7 @@
   * https://arxiv.org/abs/1904.07850
 * CenterTrack: Tracking Objects as Points ✔︎
   * https://arxiv.org/abs/2004.01177
-* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications 
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications  ✔︎
   * https://arxiv.org/abs/1704.04861
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks  ✔︎
   * https://arxiv.org/abs/1801.04381
@@ -342,4 +342,4 @@
 * The Resale Price Prediction of Secondhand Jewelry Items Using a Multi-modal Deep Model with Iterative Co-Attention
   * https://arxiv.org/abs/1907.00661
 * Predicting Next-Season Designs on High Fashion Runway
-  * https://arxiv.org/abs/1907.07161
+  * https://arxiv.org/abs/1907.07161f
