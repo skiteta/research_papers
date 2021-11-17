@@ -33,6 +33,8 @@
 
 ### Computer vision
 
+* Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image ✔︎
+  * https://arxiv.org/abs/1701.00295
 * DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning ✔︎
   * https://elifesciences.org/articles/47994#content
 * Monocular 3D Object Detection for Autonomous Driving ✔︎
