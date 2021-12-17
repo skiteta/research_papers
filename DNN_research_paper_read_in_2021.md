@@ -106,12 +106,16 @@
   * https://arxiv.org/abs/1505.04597
 * ImageNet: ImageNet Classification With Deep Convolutional Neural Networks
   * https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
-* YOLOv1: Unified, Real-Time Object Detection
+* YOLOv1: Unified, Real-Time Object Detection  ✔︎
   * https://arxiv.org/abs/1506.02640
+* YOLO9000: Better, Faster, Stronger
+  * https://arxiv.org/abs/1612.08242
 * YOLOv3: An Incremental Improvement
   * https://arxiv.org/abs/1804.02767
 * YOLOv4:  Optimal Speed and Accuracy of Object Detection
   * https://arxiv.org/abs/2004.10934
+* Batch Normalization: Accelerating Deep Network Training by reducing Internal Covariate Shift
+  * https://arxiv.org/abs/1502.03167
 * Learning the Best Pooling Strategy for Visual Semantic Embedding
   * https://arxiv.org/abs/2011.04305
 * HR-NAS: Searching Efficient High-resolution Neural Architectures With Lightweight Transformers
