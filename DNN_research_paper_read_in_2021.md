@@ -114,6 +114,8 @@
   * https://arxiv.org/abs/1804.02767
 * YOLOv4:  Optimal Speed and Accuracy of Object Detection
   * https://arxiv.org/abs/2004.10934
+* YOLOX: Exceeding YOLO Series in 2021
+  * https://arxiv.org/abs/2107.08430
 * Batch Normalization: Accelerating Deep Network Training by reducing Internal Covariate Shift
   * https://arxiv.org/abs/1502.03167
 * Learning the Best Pooling Strategy for Visual Semantic Embedding
