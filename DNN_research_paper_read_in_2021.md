@@ -33,6 +33,9 @@
 
 ### Computer vision
 
+* NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+  * https://arxiv.org/abs/2003.08934
+
 * Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image ✔︎
   * https://arxiv.org/abs/1701.00295
 * DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning ✔︎
