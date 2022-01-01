@@ -33,12 +33,27 @@
 
 ### Computer vision
 
+* Momentum Contrast for Unsupervised Visual Representation Learning
+  * https://arxiv.org/abs/1911.05722
+* Bootstrap your own latent: A new approach to self-supervised learning
+  * https://arxiv.org/abs/2006.07733
+* Emerging Properties in Self-Supervised Vision Transformers
+  * https://arxiv.org/abs/2104.14294
+* Masked Autoencoders Are Scalable Vision Learners
+  * https://arxiv.org/abs/2111.06377
+* SimMIM: A Simple Frmework for Masked Image Modelling
+  * https://arxiv.org/abs/2111.09886
+
+* A Simple Framework for Contrastive Learning of Visual Representation
+  * https://arxiv.org/abs/2002.05709
+* Big Self-Supervised Models are Strong Semi-Supervised Learners
+  * https://arxiv.org/abs/2006.10029
+
 * Learning Transferable Visual Models From Natural Language Supervision
   * https://arxiv.org/abs/2103.00020
 
 * NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
   * https://arxiv.org/abs/2003.08934
-
 * 3D Bounding Box Estimation Using Deep Learning and Geometry
   * https://arxiv.org/abs/1612.00496
 * Multi-Level Fusion based 3D Object Detection from Monocular Images
@@ -236,6 +251,14 @@
   * https://openaccess.thecvf.com/content/CVPR2021/html/Yoo_RaScaNet_Learning_Tiny_Models_by_Raster-Scanning_Images_CVPR_2021_paper.html
 * Rethinking Semantic Segmentation From a Sequence-to-Sequence Perspective With Transformers
   * https://arxiv.org/abs/2012.15840
+* An Image is Worth16x16 Words: Transformers for Image Recognition at Scale
+  * https://arxiv.org/abs/2010.11929
+* Training data-effieicent image transformers & distillation through attention
+  * https://arxiv.org/abs/2012.12877
+* Patches Are All You Need?
+  * https://openreview.net/forum?id=TVHS5Y4dNvM
+* MetaFormer is Actually What You Need for Vision
+  * https://arxiv.org/abs/2111.11418
 
 ### Natural language processing
 
@@ -247,11 +270,66 @@
   * https://openreview.net/forum?id=BJg1f6EFDB
 * Scalling Laws for Neural Language Models
   * https://arxiv.org/abs/2001.08361
-
 * Transformer: Attention Is All You Need
   * https://arxiv.org/abs/1706.03762
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   * https://arxiv.org/abs/1810.04805
+* Distributed Representation of Words and Phrases and their Compositionality
+  * https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+* An efficient framework for learning sentence representations
+  * https://arxiv.org/abs/1803.02893
+* ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+  * https://arxiv.org/abs/2003.10555
+* CLEAR: Contrastive Learning for Sentence Representation
+  * https://arxiv.org/abs/2012.15466
+* DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
+  * https://arxiv.org/abs/2006.03659
+* SimCSE: Simple Contrastive Learning of Sentence Embeddings
+  * https://arxiv.org/abs/2104.08821j
+* wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
+  * https://arxiv.org/abs/2006.11477
+* HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+  * https://arxiv.org/abs/2106.07447
+* SSAST: Self-Supervised Audio Spectrogram Transformer
+  * https://arxiv.org/abs/2110.09784
+* Towards Learning Universal Audio Representations
+  * https://arxiv.org/abs/2111.12124
+* Unsupervised Speech Recognition
+  * https://arxiv.org/abs/2105.11084
+* Generative Spoken Language Modeling from Raw Audio
+  * https://arxiv.org/abs/2102.01192
+* Direct speech-to-speech translatin with discrete units
+  * https://arxiv.org/abs/2107.05604
+* Textless Speech-to-Speech Tranlation on Real Data
+  * https://arxiv.org/abs/2112.08352
+* JURASSIC-1: TECHNICAL DETAILS AND EVALUATION
+  * https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf
+* Scaling Language Models: Methods, Analysis & Insights from Training Gopher
+  * https://deepmind.com/research/publications/2021/scaling-language-models-methods-analysis-insights-from-training-gopher
+* Finetuned Language Models Are Zero-Shot Learners
+  * https://arxiv.org/abs/2109.01652
+* Multitask Prompted Training Enables Zero-Shot Task Generalization
+  * https://arxiv.org/abs/2110.08207
+* ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning
+  * https://arxiv.org/abs/2111.10952
+* Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+  * https://arxiv.org/abs/1910.10683
+* mT5: A massively multilingual pre-trained text-to-text transformer
+  * https://arxiv.org/abs/2010.11934
+* ByT5: Towards a token-free future with pre-training byte-to-byte models
+  * https://arxiv.org/abs/2105.13626
+* AST: Audio Spectrogram Transformer
+  * https://arxiv.org/abs/2104.01778
+* BEiT: BERT Pre-Training of Image Transformers
+  * https://arxiv.org/abs/2106.08254
+* VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning
+  * https://arxiv.org/abs/2106.11250
+* Variable-rate discrete representatin learning
+  * https://arxiv.org/abs/2103.06089
+* TabTransformer: Tabular Data Modeling Using Contextual Embeddings
+  * https://arxiv.org/abs/2012.06678
+* Self-Attention Between Datapoints: Going Beyond Indeividual Input-Output Pairs in Deep Learning
+  * https://arxiv.org/abs/2106.02584
 
 ### Reinforcement Learning
 
@@ -261,15 +339,19 @@
   * https://www.kdd.org/kdd2020/accepted-papers/view/malicious-attacks-against-deep-reinforcement-learning-interpretations
 * Adversarial Policies: Attacking Deep Reinforcement Learning
   * https://openreview.net/forum?id=HJgEMpVFwB
+* Simple but Effective: CLIP Embeddings for Embodied AI
+  * https://arxiv.org/abs/2111.09888
+* CLIPort: What and Where Pathways for Robotic Manipulation
+  * https://arxiv.org/abs/2109.12098
+* Decision Transformer: Reinforcement Learning via Sequence Modeling
+  * https://arxiv.org/abs/2106.01345
 
 ### Generative model
 
 * Towards Faster and Stabilized GAN Trainign for High-fidelity Few-shot Image Synthesis
   * https://openreview.net/forum?id=1Fqg133qRaI
-
 * On Positive-Unlabeled Classification in GAN
   * https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_On_Positive-Unlabeled_Classification_in_GAN_CVPR_2020_paper.html
-
 * GAN: Generative Adversarial Nets
   * https://arxiv.org/abs/1406.2661
 * InfoGAN: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
@@ -298,6 +380,40 @@
   * https://arxiv.org/abs/1709.03831
 * MGAN: Multi-Generator Generative Adversarial Nets
   * https://arxiv.org/abs/1708.02556
+* VQGAN: Taming Transformers for High-Resolution Image Synthesis
+  * https://arxiv.org/abs/2012.09841
+* How Much Can CLIP Benefit Vision-and-Language Tasks?
+  * https://arxiv.org/abs/2107.06383
+* CLIPScore: A Reference-free Evaluation Metric for Image Captioning
+  * https://arxiv.org/abs/2104.08718
+* Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis
+  * https://openaccess.thecvf.com/content/ICCV2021/html/Jain_Putting_NeRF_on_a_Diet_Semantically_Consistent_Few-Shot_View_Synthesis_ICCV_2021_paper.html
+* AudioCLIP: Extending CLIP to Image, Text and Audio
+  * https://arxiv.org/abs/2106.13043
+* Wav2CLIP: Learning Robust Audio Representations From CLIP
+  * https://arxiv.org/abs/2110.11499
+* CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotations
+  * https://arxiv.org/abs/2112.07133
+* SLIP: Self-supervision meets Language-Image Pre-training
+  * https://arxiv.org/abs/2112.12750
+* Generative Modeling by Estimating Gradients of the Data Distribution
+  * https://arxiv.org/abs/1907.05600
+* Denoising Diffusion Probabilistic Models
+  * https://arxiv.org/abs/2006.11239
+* Neural Discrete Representation Learning
+  * https://arxiv.org/abs/1711.00937
+* Zero-Shot Text-to-Image Generation
+  * https://arxiv.org/abs/2102.12092
+* CogView: Mastering Text-to-Image Generation via Transformers
+  * https://arxiv.org/abs/2105.13290
+* NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion
+  * https://arxiv.org/abs/2111.12417
+* VideoGPT: Video Generation using VQ-VAE and Transformers
+  * https://arxiv.org/abs/2104.10157
+* Jukebox: A Generative Model for Music
+  * https://arxiv.org/abs/2005.00341
+* Generating Images with Sparse Representations
+  * https://arxiv.org/abs/2103.03841
 
 ### Machine Learning Theory
 
@@ -321,3 +437,47 @@
   * https://arxiv.org/abs/1907.00661
 * Predicting Next-Season Designs on High Fashion Runway
   * https://arxiv.org/abs/1907.07161f
+* MLP-Mixer: An all-MLP Architecture for Vision
+  * https://arxiv.org/abs/2105.01601
+* Pay Attention to MLPs
+  * https://arxiv.org/abs/2105.08050
+* ResMLP: Feedformward networks for image classification with data-efficient training
+  * https://arxiv.org/abs/2105.03404
+* RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition
+  * https://arxiv.org/abs/2105.01883
+* Are we ready for a new paradigm shift? A Survey on Visual Deep MLP
+  * https://arxiv.org/abs/2111.04060
+* SCENIC: A JAX Library for Computer Vision Reserach and Beyond
+  * https://arxiv.org/abs/2110.11403
+* PlyViT: Co-training Vision Transformers on Images, Videos and Audio
+  * https://arxiv.org/abs/2111.12993
+* Improved Denoising Diffusion Probabilistic Models
+  * https://arxiv.org/abs/2102.09672
+* Diffusion Models Beat GANs on Image Synthesis
+  * https://arxiv.org/abs/2105.05233
+* Structured Denoising Diffusion Models in Discrete State-Spaces
+  * https://arxiv.org/abs/2107.03006
+* DiffWave: A Versatile Diffusion Model for Audio Synthesis
+  * https://arxiv.org/abs/2009.09761
+* WaveGrad: Estimating Gradients for Waveform Generation
+  * https://arxiv.org/abs/2009.00713
+* Data Programming: Creating Large Training Sets, Quickly
+  * https://arxiv.org/abs/1605.07723
+* Snorkel: Rapid Training Data Creation with Weak Supervision
+  * https://arxiv.org/abs/1711.10160
+* Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
+  * https://arxiv.org/abs/2103.14749
+
+* How Much Knowledge Can You Pack Into the Parameters of a Language Model?
+  * https://aclanthology.org/2020.emnlp-main.437/
+* Generalization through Memorization: Nearest Neighbor Language Models
+  * https://arxiv.org/abs/1911.00172
+* Nearest Neighbor Machine Translation
+  * https://arxiv.org/abs/2010.00710
+* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  * https://arxiv.org/abs/2005.11401
+* Pre-training via Paraphrasing
+  * https://arxiv.org/abs/2006.15020
+* Improving language models by retrieving from trillions of tokens
+  * https://arxiv.org/abs/2112.04426
+
