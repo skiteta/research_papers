@@ -82,9 +82,12 @@
   * https://arxiv.org/abs/1506.01497
 * Feature Pyramid Networks for Object Detection
   * https://arxiv.org/abs/1612.03144
-* Distillation
-* Quantize
-* Pruning
+* Data Distillation: Towards Omni-Supervised Learning
+  * https://arxiv.org/abs/1712.04440
+* Quantize Neural Networks: Training Neural Networks with Low Precision Weights and Activations
+  * https://arxiv.org/abs/1609.07061
+* Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
+  * https://arxiv.org/abs/1510.00149
 * MobileNetV3: Searching for MobileNetV3
   * https://arxiv.org/abs/1905.02244
 * DLA: Deep Layer Aggregation
