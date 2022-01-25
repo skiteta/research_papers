@@ -94,13 +94,13 @@
   * https://arxiv.org/abs/1707.06484
 * U-Net: Convolutional Networks for Biomedical Image Segmentation
   * https://arxiv.org/abs/1505.04597
-* ImageNet: ImageNet Classification With Deep Convolutional Neural Networks
+* ImageNet: ImageNet Classification With Deep Convolutional Neural Networks ✔︎
   * https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
 * YOLO9000: Better, Faster, Stronger
   * https://arxiv.org/abs/1612.08242
 * YOLOv3: An Incremental Improvement
   * https://arxiv.org/abs/1804.02767
-* YOLOv4:  Optimal Speed and Accuracy of Object Detection
+* YOLOv4:  Optimal Speed and Accuracy of Object Detection ✔︎
   * https://arxiv.org/abs/2004.10934
 * YOLOX: Exceeding YOLO Series in 2021
   * https://arxiv.org/abs/2107.08430
