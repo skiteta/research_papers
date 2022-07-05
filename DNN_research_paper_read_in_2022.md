@@ -33,6 +33,9 @@
 
 ### Computer vision
 
+* BlazePose: On-device Real-time body Pose tracking ✔︎
+  * https://arxiv.org/abs/2006.10204
+
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
   * https://arxiv.org/abs/1611.08050
 
